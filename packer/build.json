@@ -3,7 +3,7 @@
       "aws_account_id":"",
       "aws_access_key":"",
       "aws_secret_key":"",
-      "basename":"team12_microservice",
+      "basename":"team12",
       "ec2_region":"eu-west-1",
       "ec2_instance_type":"t2.micro",
       "ec2_source_ami":"{{env `ec2_source_ami`}}",
